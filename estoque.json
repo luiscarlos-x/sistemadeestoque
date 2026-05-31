@@ -1,0 +1,42 @@
+{
+    "arroz": {
+        "preco": 25.9,
+        "quantidade": 2.0
+    },
+    "feijão": {
+        "preco": 8.5,
+        "quantidade": 80
+    },
+    "leite integral": {
+        "preco": 5.2,
+        "quantidade": 120
+    },
+    "óleo de soja": {
+        "preco": 7.8,
+        "quantidade": 60
+    },
+    "açúcar": {
+        "preco": 4.9,
+        "quantidade": 100
+    },
+    "macarrão": {
+        "preco": 3.5,
+        "quantidade": 75
+    },
+    "café": {
+        "preco": 14.9,
+        "quantidade": 45
+    },
+    "farinha": {
+        "preco": 4.2,
+        "quantidade": 87
+    },
+    "sabão em pó": {
+        "preco": 11.5,
+        "quantidade": 35
+    },
+    "chocolate": {
+        "preco": 5.0,
+        "quantidade": 30
+    }
+}
